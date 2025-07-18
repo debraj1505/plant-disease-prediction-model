@@ -47,3 +47,9 @@ Train a binaryclassification model using a Decision Tree to predict plant diseas
  2.Weather-based plant disease alert systems
  
  3.Precision agriculture dashboards
+
+
+ 🪟OverView
+ 
+![image alt](https://github.com/debraj1505/plant-disease-prediction-model/blob/main/Screenshot%202025-07-18%20124848.png)
+![image alt](https://github.com/debraj1505/plant-disease-prediction-model/blob/main/Screenshot%202025-07-18%20124944.png)
