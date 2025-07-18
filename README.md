@@ -12,7 +12,7 @@ This project leverages a Decision Tree Classifier to predict the likelihood of p
 
 The synthetic dataset consists of 10,000 samples simulating diverse environmental conditions across different farm locations. Each sample includes environmental measurements and a binary label indicating plant health.
 
-🔑 Features
+🔑 Charecteristics
 
 1.temperature — Ambient temperature (°C)
 
